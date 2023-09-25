@@ -1,3 +1,4 @@
+smth happen here
 <<<<<<< HEAD
 
 some fcking changes in dev
