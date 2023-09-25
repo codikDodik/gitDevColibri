@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Hello, git!1234
 its new line
 git status
@@ -6,3 +7,6 @@ vdf
 =======
 Hello, git!
 
+=======
+Hello, git!
+>>>>>>> parent of ac228a8 (second commit)
